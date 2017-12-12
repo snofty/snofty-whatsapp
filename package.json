@@ -1,0 +1,22 @@
+{
+  "name": "snofty-WhatsApp",
+  "version": "1.0.0",
+  "description": "Unofficial Desktop application for WhatsApp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/snofty/snofty-whatsapp.git",
+  "keywords": [
+    "WhatsApp",
+    "desktop"
+  ],
+  "author": "Snofty",
+  "license": "MIT",
+  "dependencies": {
+    "electron-json-storage":"^4.0.2"
+  },
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
